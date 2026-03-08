@@ -2,13 +2,24 @@
   "$schema": "https://code.claude.com/schemas/marketplace.json",
   "name": "managing-dependencies",
   "owner": {
-    "name": "andrew"
+    "name": "Andrew Nesbitt",
+    "email": "andrew@nesbitt.io"
   },
   "plugins": [
     {
       "name": "managing-dependencies",
       "source": "./",
-      "description": "Evaluates packages, manages dependencies, and addresses supply chain security"
+      "description": "Evaluates packages, manages dependencies, and addresses supply chain security",
+      "version": "1.0.0",
+      "author": {
+        "name": "Andrew Nesbitt",
+        "email": "andrew@nesbitt.io"
+      },
+      "license": "CC0-1.0",
+      "repository": "https://github.com/andrew/managing-dependencies",
+      "homepage": "https://github.com/andrew/managing-dependencies",
+      "category": "security",
+      "keywords": ["dependencies", "packages", "supply-chain", "security", "audit", "lockfile"]
     }
   ]
 }
