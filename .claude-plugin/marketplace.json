@@ -1,0 +1,14 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "managing-dependencies",
+  "owner": {
+    "name": "andrew"
+  },
+  "plugins": [
+    {
+      "name": "managing-dependencies",
+      "source": "./",
+      "description": "Evaluates packages, manages dependencies, and addresses supply chain security"
+    }
+  ]
+}
