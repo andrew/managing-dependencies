@@ -1,0 +1,25 @@
+README.md
+  c0b5ddf0e1f769f9 11,19,23,27,31
+.claude-plugin/plugin.json
+  c0b5ddf0e1f769f9 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "e6c13bd7246f13bab6510790ca6378e8660bf50f",
+  "prompts": {
+    "c0b5ddf0e1f769f9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19f53b85-54ff-49c8-be61-ff6374b52254",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Andrew Nesbitt <andrewnez@gmail.com>",
+      "messages": [],
+      "total_additions": 10,
+      "total_deletions": 4,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    }
+  }
+}
