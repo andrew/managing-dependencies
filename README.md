@@ -8,6 +8,7 @@ Works with [Claude Code](https://claude.ai/code), [Codex CLI](https://github.com
 
 ```
 /plugin marketplace add andrew/managing-dependencies
+/plugin install managing-dependencies@managing-dependencies
 ```
 
 Or copy `SKILL.md` to your skills directory manually:
@@ -15,19 +16,19 @@ Or copy `SKILL.md` to your skills directory manually:
 ```bash
 # Claude Code
 mkdir -p ~/.claude/skills/managing-dependencies
-cp SKILL.md ~/.claude/skills/managing-dependencies/
+cp skills/managing-dependencies/SKILL.md ~/.claude/skills/managing-dependencies/
 
 # Codex CLI
 mkdir -p ~/.codex/skills/managing-dependencies
-cp SKILL.md ~/.codex/skills/managing-dependencies/
+cp skills/managing-dependencies/SKILL.md ~/.codex/skills/managing-dependencies/
 
 # Project-specific (Claude Code)
 mkdir -p .claude/skills/managing-dependencies
-cp SKILL.md .claude/skills/managing-dependencies/
+cp skills/managing-dependencies/SKILL.md .claude/skills/managing-dependencies/
 
 # Project-specific (Codex CLI)
 mkdir -p .codex/skills/managing-dependencies
-cp SKILL.md .codex/skills/managing-dependencies/
+cp skills/managing-dependencies/SKILL.md .codex/skills/managing-dependencies/
 ```
 
 ## What it does

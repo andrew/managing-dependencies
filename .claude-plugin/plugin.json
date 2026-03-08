@@ -1,0 +1,5 @@
+{
+  "name": "managing-dependencies",
+  "description": "Evaluates packages, manages dependencies, and addresses supply chain security",
+  "version": "1.0.0"
+}
