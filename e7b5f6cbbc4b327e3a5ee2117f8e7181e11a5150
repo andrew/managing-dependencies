@@ -1,0 +1,23 @@
+.claude-plugin/marketplace.json
+  c0b5ddf0e1f769f9 1-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "e7b5f6cbbc4b327e3a5ee2117f8e7181e11a5150",
+  "prompts": {
+    "c0b5ddf0e1f769f9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "19f53b85-54ff-49c8-be61-ff6374b52254",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Andrew Nesbitt <andrewnez@gmail.com>",
+      "messages": [],
+      "total_additions": 14,
+      "total_deletions": 0,
+      "accepted_lines": 14,
+      "overriden_lines": 0
+    }
+  }
+}
